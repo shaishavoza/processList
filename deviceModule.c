@@ -137,4 +137,4 @@ module_exit(mydev_exit);
 
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Send all running process data to user process");
-MODULE_AUTHOR("Shaishav/Jeet");
+MODULE_AUTHOR("Shaishav");
